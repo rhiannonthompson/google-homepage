@@ -63,11 +63,11 @@ header {
 }
 
 .icon-apps {
-  background-image: url(/icons/apps24px.svg);
+  background-image: url(icons/apps24px.svg);
 }
 
 .icon-profile {
-  background-image: url(/icons/accountCircle24px.svg);
+  background-image: url(icons/accountCircle24px.svg);
   width: 4rem;
   height: 4rem;
 }
